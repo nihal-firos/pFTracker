@@ -202,23 +202,20 @@ Demo env variables:
 
 ## Screenshots
 
-Add screenshots under `docs/screenshots/` with these names:
-
-- `docs/screenshots/login.png`
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/transactions.png`
-- `docs/screenshots/categories.png`
-- `docs/screenshots/reports.png`
-
-Example markdown:
-
-```md
+### Login
 ![Login](docs/screenshots/login.png)
+
+### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
+
+### Transactions
 ![Transactions](docs/screenshots/transactions.png)
+
+### Categories
 ![Categories](docs/screenshots/categories.png)
-![Reports](docs/screenshots/reports.png)
-```
+
+### Reports
+![Reports](docs/screenshots/reprots.png)
 
 ## Push To GitHub
 
